@@ -1,0 +1,5 @@
+The fonts used are:
+corporative-mediumitalic
+corporative-medium
+corporative-bookitalic
+corporative-book
