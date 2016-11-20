@@ -1,0 +1,96 @@
+/* CSS bitBio */
+
+@font-face {
+ font-family: 'Corporative';
+ font-weight: normal;
+ src: url('fonts/corporative-book.woff') format('woff');
+}
+
+body {
+  background-color: #FFFFFF;
+	font-family: 'Corporative';
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 22pt;
+	font-weight: normal;
+  padding-top: 0.8em;
+}
+
+h2 {
+  font-size: 16pt;
+	color: #FFFFFF;
+	font-weight: normal;
+}
+
+p {
+  font-size: 12pt;
+	font-weight: normal;
+}
+
+.claim {
+  background-color: #000000;
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+.logo {
+  position: relative;
+  top: 12px;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 700px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+/*mailchimmp*/
+
+#mc_embed_signup{
+  font-family:'Corporative';
+}
+
+#mc_embed_signup_scroll{
+  font-family:'Corporative';
+}
+
+.mc-field-group{
+padding-bottom:10px;
+}
+
+
+.signup-button{
+  font-weight: bolder;
+  font-size: 14pt;
+  color: #fff;
+  background-color: #8cc63e;
+  font-family: 'Corporative';
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-style: none;
+}
+
+.signup-button:hover{
+  background-color: #000;
+}
+
+.required {
+  font-family:'Corporative';
+  padding-left: 20px;
+  font-size: 12pt;
+  width:260px;
+}
+
+.notrequired {
+  font-family:'Corporative';
+  padding-left: 20px;
+  font-size: 12pt;
+  width:260px;
+}
