@@ -25,6 +25,25 @@ h2 {
 	font-weight: normal;
 }
 
+h3 {
+  font-size: 12pt;
+	color: #FFFFFF;
+	font-weight: normal;
+}
+
+a {
+  font-size: 12pt;
+	color: #FFFFFF;
+	font-weight: normal;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #8cc63e;
+}
+
+
 p {
   font-size: 12pt;
 	font-weight: normal;
@@ -65,7 +84,6 @@ padding-bottom:10px;
 
 
 .signup-button{
-  font-weight: bolder;
   font-size: 14pt;
   color: #fff;
   background-color: #8cc63e;
